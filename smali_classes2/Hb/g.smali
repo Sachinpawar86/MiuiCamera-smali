@@ -713,7 +713,7 @@
 
     iget-boolean v7, v4, LHb/r;->y:Z
 
-    if-eqz v7, :cond_17
+    goto :cond_17
 
     iget v7, v4, LHb/r;->l:I
 
