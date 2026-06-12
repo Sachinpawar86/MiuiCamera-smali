@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bcs">0.0dip</dimen>
+    <dimen name="bel">21.73999dip</dimen>
+    <dimen name="bem">25.0dip</dimen>
+    <dimen name="blw">150.0dip</dimen>
+    <dimen name="ck2">150.0dip</dimen>
+    <dimen name="cka">33.25dip</dimen>
+    <dimen name="czc">15.409973sp</dimen>
+    <dimen name="d8c">143.06dip</dimen>
+    <dimen name="d8e">80.19998dip</dimen>
+    <dimen name="d8g">136.04999dip</dimen>
+    <dimen name="d94">163.53998dip</dimen>
+    <dimen name="d9c">100.0dip</dimen>
+    <dimen name="d9v">1114.1797dip</dimen>
+    <dimen name="d_d">-0.59000003dip</dimen>
+    <dimen name="d_n">170.0dip</dimen>
+    <dimen name="d_p">163.53998dip</dimen>
+</resources>

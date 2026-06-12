@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b_m">28.215393dip</dimen>
+    <dimen name="b_n">28.215393dip</dimen>
+    <dimen name="bcx">170.9256dip</dimen>
+    <dimen name="bcy">113.9498dip</dimen>
+    <dimen name="bd_">4.3487854dip</dimen>
+    <dimen name="bel">0.0dip</dimen>
+    <dimen name="bem">0.0dip</dimen>
+    <dimen name="biy">19.571594dip</dimen>
+    <dimen name="biz">15.657288dip</dimen>
+    <dimen name="cd8">32.01999dip</dimen>
+    <dimen name="cd9">9.962982dip</dimen>
+    <item type="dimen" name="cjm">0.293665</item>
+    <dimen name="czc">16.699982sp</dimen>
+    <dimen name="czd">16.699982dip</dimen>
+    <dimen name="d1u">7.294281dip</dimen>
+    <dimen name="d1v">4.804779dip</dimen>
+    <dimen name="d1w">1.7809753dip</dimen>
+    <dimen name="d8c">155.47998dip</dimen>
+    <dimen name="d8e">16.129974dip</dimen>
+    <dimen name="d8p">30.96997dip</dimen>
+    <dimen name="d9v">1149.6797dip</dimen>
+    <dimen name="d_m">87.73999dip</dimen>
+    <dimen name="dfr">55.44998dip</dimen>
+    <dimen name="dqp">12.810486dip</dimen>
+    <dimen name="dqq">12.810486dip</dimen>
+    <dimen name="dsn">21.350677dip</dimen>
+    <dimen name="dso">7.1161804dip</dimen>
+    <dimen name="dsp">14.233398dip</dimen>
+    <dimen name="dsq">7.1171875dip</dimen>
+    <dimen name="dsr">12.810577dip</dimen>
+    <dimen name="dss">124.54578dip</dimen>
+    <dimen name="dst">106.7543dip</dimen>
+    <dimen name="dsu">74.727295dip</dimen>
+    <dimen name="dsv">60.493896dip</dimen>
+    <dimen name="e50">135.22018dip</dimen>
+    <dimen name="e52">64.048096dip</dimen>
+    <dimen name="e6r">0.0dip</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="b_d">40.0dip</dimen>
+    <dimen name="ben">200.0dip</dimen>
+    <dimen name="bq2">25.0dip</dimen>
+    <dimen name="cd0">27.289978dip</dimen>
+    <dimen name="d93">20.0dip</dimen>
+    <dimen name="d9v">660.0dip</dimen>
+    <dimen name="d_e">20.0dip</dimen>
+    <dimen name="d_f">84.66998dip</dimen>
+    <dimen name="d_k">98.0dip</dimen>
+    <dimen name="dhu">56.0dip</dimen>
+    <dimen name="dhv">56.0dip</dimen>
+</resources>
