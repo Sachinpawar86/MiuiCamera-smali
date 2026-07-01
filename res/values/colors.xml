@@ -239,6 +239,7 @@
     <color name="index_button_disable_light">#ff666666</color>
     <color name="iv_tag_cv_light">#80000000</color>
     <color name="iv_tag_light">#99000000</color>
+	<color name="launcher_bg_cv">#fff4f5f6</color>
     <color name="leica_red">#ffe20612</color>
     <color name="live_icon_play">#bf000000</color>
     <color name="live_music_default_cover_bg1">#ffffe2e6</color>
